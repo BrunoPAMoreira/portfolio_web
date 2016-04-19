@@ -1,0 +1,155 @@
+/*header*/
+.menu-opcoes{
+	display: inline;
+	margin-left: 20px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.menu-opcoes a{
+	color: #003366;
+}
+ul li{
+	display: inline;
+}
+header{
+	position: relative;
+}
+.container-header{
+	margin: 0 auto;
+	width: 940px;
+}
+
+/*section*/
+h1{
+	background-color: #EE6363;
+	font-size: 48px;
+	padding:0 45px; 
+	text-indent:15px;
+	font-family: Bodoni MT Black;
+	color: white;
+	margin-bottom: 30px;
+}
+p{ 
+	background-color: #EE6363;
+	padding:0 45px; 
+	text-indent:15px;
+	font-size: 30px;
+	font-family: Elephant;
+	color: white;
+}
+section{
+	background-color: #EE6363;
+}
+.opcoes-interesse{
+	display: inline;
+	margin-left: 20px;
+    position: relative;
+	text-align: center;
+	top: 0;
+	right: 0;
+}
+.opcoes-interesse img{
+	width: 210px;
+	height: 210px;
+}
+.contato{
+	text-align: center;
+	font-family: Arial;
+	color: white;
+}
+
+/*footer*/
+.rodape-opcoes{
+	display: inline;
+	margin-left: 20px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+ul li{
+	display: inline;
+}
+footer{
+	position: relative;
+}
+#ajuste{
+	width: 230px;
+	height: 120px;
+}
+.mandar {
+	background: #EE6363;
+	border: 1;
+	border-color: gray;
+	color: white;
+	
+	font-size: 1.0em;
+	text-transform: uppercase;
+	
+	box-shadow: 0 1px 3px #777;
+	
+	display: inline;
+	padding: 0.5em 1em;
+	margin: 1em 0;
+}
+.mandar:hover {
+	box-shadow: 0 0 5px #333;
+	transition: box-shadow 0.3s;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 0 0 5px #333;
+	transition: 0.7s;
+	transform: scale(1.2);
+	transform: scale(1.2);
+}
+.limpar {
+	background: #EE6363;
+	border: 1;
+	border-color: gray;
+	color: white;
+	
+	font-size: 1.0em;
+	text-transform: uppercase;
+	
+	box-shadow: 0 1px 3px #777;
+	
+	display: inline;
+	padding: 0.5em 1em;
+	margin: 1em 0;
+}
+.limpar:hover {
+	box-shadow: 0 0 5px #333;
+	transition: box-shadow 0.3s;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 0 0 5px #333;
+	transition: 0.7s;
+	transform: scale(1.2);
+	transform: scale(1.2);
+}
+form{
+	text-align: center;
+}
+table {
+	border-spacing: 0.2em;
+	border-collapse: separate;
+}
+thead tr  td{
+	background-color: gray;
+	font-size: 20;
+	text-align: center;
+}
+td {
+	font-family: Arial;
+	font-style: bold;
+	color: white;
+	padding: 0.3em;
+}
+td:first-child {
+	font-family: Arial;
+	font-style: bold;
+	color: white;
+	font-size: 20;
+}
+.detalhes {
+	margin-left: 600px;
+	margin-top: 100px;
+}
